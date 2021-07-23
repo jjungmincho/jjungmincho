@@ -5,7 +5,7 @@ My name is Jungmin Cho. Feel free to call me Jessica!
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning JavaScript and Python.
 - 🤔 I’m looking for help with SQL 😭
-- 💬 Ask me anything with HTML and CSS! I am happy to help you out! 🤗
+- 💬 Ask me anything about HTML and CSS! I am happy to help you out! 🤗
 - 📫 How to reach me: https://www.linkedin.com/in/jjungmincho/
 - ⚡ Fun fact: I love learning new stuffs! 
 
