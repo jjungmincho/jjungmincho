@@ -7,7 +7,7 @@ My name is Jungmin Cho. Feel free to call me Jessica!
 - 🤔 I’m looking for help with SQL 😭
 - 💬 Ask me anything about HTML and CSS! I am happy to help you out! 🤗
 - 📫 How to reach me: https://www.linkedin.com/in/jjungmincho/
-- ⚡ Fun fact: I love learning new stuffs! 
+- ⚡ Fun fact: I recently started learning Italian 😊
 
 ### Languages and frameworks 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
