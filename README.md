@@ -29,7 +29,7 @@ My name is Jungmin Cho. Feel free to call me Jessica!
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 ### Social Media
-<a href="https://www.linkedin.com/in/jjungmincho/"><img alt="LinkedIn" src="images/linkedin.png"/></a>
-<a href="https://www.behance.net/jjungmincho"><img alt="Behance" src="images/behance.png"/></a>
-<a href="https://www.instagram.com/jjungmincho/"><img alt="Instagram" src="images/instagram.png"/></a>
-<a href="https://dribbble.com/jjungmincho"><img alt="Dribble" src="images/dribble.png"/></a>
+<a href="https://www.linkedin.com/in/jjungmincho/" target="_blank"><img alt="LinkedIn" src="images/linkedin.png"/></a>
+<a href="https://www.behance.net/jjungmincho" target="_blank"><img alt="Behance" src="images/behance.png"/></a>
+<a href="https://www.instagram.com/jjungmincho/" target="_blank"><img alt="Instagram" src="images/instagram.png"/></a>
+<a href="https://dribbble.com/jjungmincho" target="_blank"><img alt="Dribble" src="images/dribble.png"/></a>
