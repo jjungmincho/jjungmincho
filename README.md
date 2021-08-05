@@ -6,7 +6,7 @@ My name is Jungmin Cho. Feel free to call me Jessica!
 - 🌱 I’m currently learning JavaScript and Python.
 - 🤔 I’m looking for help with SQL 😭
 - 💬 Ask me anything about HTML and CSS! I am happy to help you out! 🤗
-- 📫 How to reach me: https://www.linkedin.com/in/jjungmincho/ or jungmincho2021@gmail.com
+- 📫 How to reach me: jungmincho2021@gmail.com
 - ⚡ Fun fact: I recently started learning Italian 😊
 
 ### Languages and frameworks 
@@ -27,3 +27,9 @@ My name is Jungmin Cho. Feel free to call me Jessica!
 
 ### Version Control
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+### Social Media
+<a href="https://www.linkedin.com/in/jjungmincho/"><img alt="LinkedIn" src="images/linkedin.png"/></a>
+<a href="https://www.behance.net/jjungmincho"><img alt="Behance" src="images/behance.png"/></a>
+<a href="https://www.instagram.com/jjungmincho/"><img alt="Instagram" src="images/instagram.png"/></a>
+<a href="https://dribbble.com/jjungmincho"><img alt="Dribble" src="images/dribble.png"/></a>
