@@ -3,8 +3,8 @@
 My name is Jungmin Cho. Feel free to call me Jessica! 
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning JavaScript and Python.
-- 🤔 I’m looking for help with SQL 😭
+- 🌱 I’m currently learning WordPress and Shopify.
+- 🤔 I’m looking for help with Salesforce 😭
 - 💬 Ask me anything about HTML and CSS! I am happy to help you out! 🤗
 - 📫 How to reach me: jungmincho2021@gmail.com
 - ⚡ Fun fact: I recently started learning Italian 😊
