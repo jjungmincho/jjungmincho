@@ -2,11 +2,11 @@
 
 My name is Jungmin Cho. Feel free to call me Jessica! 
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning WordPress and Shopify.
+- 🔭 I’m currently working as a remote part-time graphic desginer at Awesome Sushi.
+- 🌱 I’m continously learning new graphic design skills.
 - 💬 Ask me anything about HTML and CSS! I am happy to help you out! 🤗
 - 📫 How to reach me: jungmincho2021@gmail.com
-- ⚡ Fun fact: I recently started learning Italian 😊
+- ⚡ Fun fact: Dream come true! I live in Italy now! 😊
 
 ### Languages and frameworks 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
